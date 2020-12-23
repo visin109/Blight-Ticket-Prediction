@@ -6,4 +6,5 @@ So in order to do that,two data sets have beem loaded and analyzing the features
 
 Here our target variable is called as "Compliance".Our target is to predict this compliance.
 Grid searchCV method and random forest regressor has been used to predict the compliance.
-Here trainig the model is based on types of violations commited by the people(in data).
+Here trainig the model is based on types of violations commited by the people(in data).4
+the accuracy obtained is calculated using roc_auc_score evaluation metric.
