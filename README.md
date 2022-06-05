@@ -1,4 +1,4 @@
-#BLIGHT TICKET PREDICTION
+BLIGHT TICKET PREDICTION
 
 
 Blight ticket prediction.
