@@ -1,5 +1,5 @@
-BLIGHT TICKET PREDICTION
-
+**BLIGHT TICKET PREDICTION
+**
 
 Blight ticket prediction.
 This project is a real life situation happended in Detroit a city in Michigan.Every year the Detroit city issues fines in millions of dollars to people who allow the property to remain in deteroitaed condition and many of these remain unpaid.Blight ticket is the ticket issued as fine to residents who violate maintanance of properties.Here the target variable is called as "Compliance".My target is to predict the complaince i.e whether the blight ticket will be paid on time or not.
